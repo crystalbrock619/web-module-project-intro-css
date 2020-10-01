@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+*{
+  box-sizing:border-box;
+  font-size: 65.5%;
+}
+html {
+    
+}
+.navigation{
+  display: inline-block;S
+  margin-bottom: 10rem;
+  }
+
+.navigation a{
+    width: 22rem;
+    padding: 2rem;
+    font-size: 3.5rem;
+    text-decoration: none;
+    color: white;
+    border-radius: 25px;
+    text-align: center;
+    line-height: 2.5rem;
+    font-family: monospace;
+}
+#planTop{
+    background-color: #f05b32;
+    position: absolute;
+    left: 20rem;
+    top: 1rem;
+}
+#learnTop{
+    background-color: #79eaf2;
+    position: absolute;
+    left: 60rem;
+    top: 1rem;
+}
+#involvedTop{
+    background-color: #ebb842;
+    position: absolute;
+    right: 20rem;
+    top: 1rem;
+}
+#planBottom{
+    background-color: #f05b32;
+    padding-top:1rem;
+    position: absolute;
+    left: 20rem;
+    bottom: 2.5rem;
+}
+#learnBottom{
+    background-color: #79eaf2;
+    padding-top:1rem;
+    position: absolute;  
+    left:60rem;
+    bottom: 2.5rem;
+}
+#involvedBottom{
+    background-color: #ebb842;
+    padding-top:1rem;
+    position: absolute;
+    right: 20rem;
+    bottom: 2.5rem;
+}
+footer{
+  width: 100%;
+  height: 12rem;
+  position: relative;
+  bottom: 0rem;
+  background-color: #eddbcc;
+}
+#bottomImg{
+  position: relative;
+  bottom: 0rem;
+  width: 100%;
+  height: 30rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#sec1 img{
+    width: 40rem;
+    height: 40rem;
+    border-radius: 50%;
+    margin-top: 12rem;
+    margin-left: 6rem;
+}
+#sec1 h1{
+  float: right;
+  font-size: 7rem;
+  margin: 18rem 12rem 5rem 0rem;
+  font-family: 'Chelsea Market', cursive;
+}
+#sec1 p{
+  font-size: 3rem;
+  float: right;
+  font-family: monospace;
+  text-align: center;
+  font-weight: bold;
+}
+#sec1 #headPTwo{
+  position: relative;
+  top: -25rem;
+  margin-left: 20rem;
+  margin-right: 28rem;
+}
+#sec1 #headPOne{
+  position: relative;
+  top: -25rem;
+  margin-right: 17rem;
+}
+.info{
+  width: 90%;
+  height: 20rem;
+  background-color: #bf7636;
+  margin-left:auto;
+  margin-right:auto; 
+}
+.info p{
+  position: relative;
+  top:-17rem;
+  margin-left: 2rem;
+  font-family: monospace;
+  font-size: 3rem;
+  color: white;
+  text-align: center;
+}
+.main{
+  width: 30rem;
+  margin-top: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10rem;
+  font-size: 2.9rem;
+  text-align: center;
+  font-family: monospace;
+  line-height: 2rem;
+}
+.main img{
+  width:175px;
+  height:175px;
+  padding-left: 1rem;
+}
+span{
+  font-size: 1.7rem;
+  font-weight: bold;
+}
